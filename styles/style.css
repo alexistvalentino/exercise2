@@ -1,0 +1,180 @@
+body {
+    background-image: url(../images/tweed.png);
+}
+
+#wrapper #header h1 {
+    text-align: center;
+    font-size: 36px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+}
+
+#wrapper #kotakjarak {
+    height: 20px;
+    width: 1000px;
+    margin: auto;
+}
+
+#wrapper #kotaksatu {
+    height: 150px;
+    width: 1000px;
+    margin: auto;
+}
+
+#wrapper #kotaksatu #kotaksatukiri {
+    height: 150px;
+    width: 200px;
+    float: left;
+    background-color: blueviolet;
+}
+
+#wrapper #kotaksatu #kotaksatukanan {
+    height: 150px;
+    width: 560px;
+    float: left;
+    background-color: blueviolet;
+}
+
+#wrapper #kotaksatu #kotaksatukanan p {
+    text-align: justify;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lemonchiffon;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#wrapper #kotaksatu #kotaksatukiri img {
+    height: 110px;
+    width: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+#wrapper #kotakdua {
+    height: 150px;
+    width: 1000px;
+    margin: auto;
+}
+
+#wrapper #kotakdua #kotakduakiri {
+    height: 150px;
+    width: 200px;
+    float: right;
+    background-color: green;
+}
+
+#wrapper #kotakdua #kotakduakiri img {
+    height: 110px;
+    width: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+#wrapper #kotakdua #kotakduakanan {
+    height: 150px;
+    width: 600px;
+    float: right;
+    background-color: green;
+}
+
+#wrapper #kotakdua #kotakduakanan p {
+    text-align: justify;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lemonchiffon;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#wrapper #kotaktiga {
+    height: 150px;
+    width: 1000px;
+    margin: auto;
+}
+
+#wrapper #kotaktiga #kotaktigakiri {
+    height: 150px;
+    width: 200px;
+    float: left;
+    background-color: indianred;
+}
+
+#wrapper #kotaktiga #kotaktigakiri img {
+    height: 110px;
+    width: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    padding-right: 20px;
+}
+
+#wrapper #kotaktiga #kotaktigakanan {
+    height: 150px;
+    width: 600px;
+    float: left;
+    background-color: indianred;
+}
+
+#wrapper #kotaktiga #kotaktigakanan p {
+    text-align: justify;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lemonchiffon;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#wrapper #kotakempat {
+    height: 150px;
+    width: 1000px;
+    margin: auto;
+}
+
+#wrapper #kotakempat #kotakempatkiri {
+    height: 150px;
+    width: 200px;
+    float: right;
+    background-color: grey;
+}
+
+#wrapper #kotakempat #kotakempatkiri img {
+    height: 110px;
+    width: 110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    padding-right: 30px;
+}
+
+#wrapper #kotakempat #kotakempatkanan {
+    height: 150px;
+    width: 600px;
+    float: right;
+    background-color: grey;
+}
+
+#wrapper #kotakempat #kotakempatkanan p {
+    text-align: justify;
+    margin-bottom: 20px;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lemonchiffon;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
